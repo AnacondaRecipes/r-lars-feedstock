@@ -60,6 +60,7 @@ about:
     least squares fit. Least angle regression and infinitesimal forward stagewise regression
     are related to the lasso, as described in the paper below.
   license_family: GPL2
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
 
 extra:
   recipe-maintainers:
